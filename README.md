@@ -1,24 +1,24 @@
 # Task-1
-HealSpace Landing Page
+HealSpace Landing Page:- 
 A simple, responsive landing page for HealSpace, a therapy and wellness platform.
 
-Features
+Features: 
 Responsive navbar with essential links
 
 Hero section with therapy options (Individual, Couples, Teen)
 
-Therapy options displayed as cards with images
+Therapy options display as cards with images
 
 Footer with social media icons
 
 Mobile-friendly design
 
-How to Use
+How to use:-
 Open index.html in a browser
 
 Resize the window to test responsiveness
 
 Edit images, links, and text as needed in index.html and style.css
 
-Requirements
+Requirements:-
 No setup required — just open in any modern browser
